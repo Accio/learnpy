@@ -1,0 +1,12 @@
+name: learnpy
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - bokeh
+  - statsmodels
