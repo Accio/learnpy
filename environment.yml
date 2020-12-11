@@ -1,6 +1,7 @@
 name: learnpy
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - numpy
   - pandas
@@ -10,3 +11,5 @@ dependencies:
   - plotly
   - bokeh
   - statsmodels
+  - pyscaffold
+  - Jupyter
