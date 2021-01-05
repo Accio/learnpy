@@ -1,7 +1,8 @@
 Automated testing in Python
 ===
 
-Source: https://coderefinery.github.io/testing/
+Source: https://coderefinery.github.io/testing/. I can recommend this to anyone
+who wants to get started with testing.
 
 ## Testing locally
 
@@ -15,3 +16,8 @@ Cons
   part of the Git history
 * Cannot ensure the test was run
 * No way to commit a change which breaks a test
+
+## Testing using GitHub Actions or other web services
+
+In GitHub Actions, set up an Python Application action, and add the call of
+testing scripts at the end.
