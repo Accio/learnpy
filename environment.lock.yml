@@ -4,20 +4,27 @@ channels:
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
+  - alabaster=0.7.12=py_0
   - argon2-cffi=20.1.0=py38h7b6447c_1
   - async_generator=1.10=py_0
   - attrs=20.3.0=pyhd3eb1b0_0
+  - babel=2.9.0=pyhd3eb1b0_0
   - backcall=0.2.0=py_0
   - blas=1.0=openblas
   - bleach=3.2.1=py_0
   - bokeh=2.2.3=py38_0
+  - brotlipy=0.7.0=py38h27cfd23_1003
   - ca-certificates=2020.12.8=h06a4308_0
   - certifi=2020.12.5=py38h06a4308_0
   - cffi=1.14.4=py38h261ae71_0
+  - chardet=4.0.0=py38h06a4308_1003
+  - colorama=0.4.4=pyhd3eb1b0_0
+  - cryptography=3.3.1=py38h3c74f83_0
   - cycler=0.10.0=py38_0
   - dbus=1.13.18=hb2f20db_0
   - decorator=4.4.2=py_0
   - defusedxml=0.6.0=py_0
+  - docutils=0.16=py38_1
   - entrypoints=0.3=py38_0
   - expat=2.2.10=he6710b0_2
   - fontconfig=2.13.0=h9420a91_0
@@ -26,6 +33,8 @@ dependencies:
   - gst-plugins-base=1.14.0=hbbd80ab_1
   - gstreamer=1.14.0=hb31296c_0
   - icu=58.2=he6710b0_3
+  - idna=2.10=py_0
+  - imagesize=1.2.0=py_0
   - importlib-metadata=3.1.1=pyhd8ed1ab_0
   - importlib_metadata=3.1.1=hd8ed1ab_0
   - iniconfig=1.1.1=py_0
@@ -94,10 +103,12 @@ dependencies:
   - py=1.10.0=pyhd3eb1b0_0
   - pycparser=2.20=py_2
   - pygments=2.7.3=pyhd3eb1b0_0
+  - pyopenssl=20.0.1=pyhd3eb1b0_1
   - pyparsing=2.4.7=py_0
   - pyqt=5.9.2=py38h05f1152_4
   - pyrsistent=0.17.3=py38h7b6447c_0
   - pyscaffold=3.2.3=py_0
+  - pysocks=1.7.1=py38_0
   - pytest=6.2.1=py38h06a4308_0
   - python=3.8.5=h7579374_1
   - python-dateutil=2.8.1=py_0
@@ -109,6 +120,7 @@ dependencies:
   - qtconsole=5.0.1=pyhd8ed1ab_0
   - qtpy=1.9.0=py_0
   - readline=8.0=h7b6447c_0
+  - requests=2.25.1=pyhd3eb1b0_0
   - retrying=1.3.3=py_2
   - scikit-learn=0.23.2=py38h0573a6f_0
   - scipy=1.5.2=py38habc2bb6_0
@@ -117,6 +129,14 @@ dependencies:
   - setuptools=51.0.0=py38h06a4308_2
   - sip=4.19.13=py38he6710b0_0
   - six=1.15.0=py38h06a4308_0
+  - snowballstemmer=2.0.0=py_0
+  - sphinx=3.4.2=pyhd3eb1b0_0
+  - sphinxcontrib-applehelp=1.0.2=py_0
+  - sphinxcontrib-devhelp=1.0.2=py_0
+  - sphinxcontrib-htmlhelp=1.0.3=py_0
+  - sphinxcontrib-jsmath=1.0.1=py_0
+  - sphinxcontrib-qthelp=1.0.3=py_0
+  - sphinxcontrib-serializinghtml=1.1.4=py_0
   - sqlite=3.33.0=h62c20be_0
   - statsmodels=0.12.1=py38h27cfd23_0
   - terminado=0.9.1=py38_0
@@ -127,6 +147,7 @@ dependencies:
   - tornado=6.1=py38h27cfd23_0
   - traitlets=5.0.5=py_0
   - typing_extensions=3.7.4.3=py_0
+  - urllib3=1.26.2=pyhd3eb1b0_0
   - wcwidth=0.2.5=py_0
   - webencodings=0.5.1=py38_1
   - wheel=0.36.1=pyhd3eb1b0_0
