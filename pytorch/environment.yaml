@@ -1,0 +1,11 @@
+name: pytorch
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - pytorch
+  - torchvision
+  - matplotlib
+  - torchaudio
+  - tqdm
