@@ -6,9 +6,10 @@ References:
 1. [Intro to data structures of pandas](https://pandas.pydata.org/docs/user_guide/dsintro.html#dsintro)
 2. [Data types of NumPy](https://numpy.org/doc/stable/user/basics.types.html)
 3. [Essential basic functionality of pandas](https://pandas.pydata.org/docs/user_guide/basics.html#basics-binop)
+4. [Lecture notes in scientific python](https://lectures.scientific-python.org)
+5. [Mathesaurus, a thesaurus of mathematical languages](https://mathesaurus.sourceforge.net)
 
-To learn the data structure and essential functionalities of pandas, it is
-helpful to be familiar with basic python data structures, especially list and
+To learn the data structure and essential functionalities of pandas, it is helpful to be familiar with basic python data structures, especially list and
 dict, as well as with `ndarray` of numpy.
 
 ## Series
