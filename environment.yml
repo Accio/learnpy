@@ -1,6 +1,5 @@
 name: learnpy
 channels:
-  - defaults
   - conda-forge
 dependencies:
   - numpy
