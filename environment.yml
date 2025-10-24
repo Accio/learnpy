@@ -14,3 +14,4 @@ dependencies:
   - Jupyter
   - pytest
   - sphinx
+  - jupyterlab
